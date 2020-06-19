@@ -31,7 +31,7 @@
 
 Esse desafio,tem como objetivo criar uma aplicação para treinar os conceitos de ReactJS!
 
-A aplicação consome a <a href="https://github.com/JonasCastro/conceitos-nodejs">API</a> de repositórios do seu portfólio.
+A aplicação consome a <a href="https://github.com/JonasCastro/conceitos-nodejs">API</a> de repositórios de portfólio.
 
 ### Funcionalidades da aplicação
 
