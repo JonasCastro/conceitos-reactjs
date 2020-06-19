@@ -26,6 +26,14 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+
+<p align="center">
+  <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#funcionalidades-da-aplicação">Funcionalidades da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#checkered_flag-execute-o-projeto-localmente">Execute o projeto localmente</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio,tem como objetivo criar uma aplicação para treinar os conceitos de ReactJS!
@@ -46,10 +54,33 @@ A aplicação consome a <a href="https://github.com/JonasCastro/conceitos-nodejs
 
 - **`should be able to remove repository`**: Para que esse teste passe, a aplicação deve permitir que ao clicar no botão de remover que vai estar dentro da `LI` do repositório adicionado, o item seja removido da listagem.
 
+### :checkered_flag: Execute o projeto localmente:
+
+```bash
+# Clone este repositório
+$ git clone https://github.com/JonasCastro/conceitos-reactjs.git
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd conceitos-reactjs
+
+# Instale as dependências
+$ yarn
+
+# Execute a aplicação em modo de desenvolvimento
+$ yarn start
+
+# O servidor inciará na porta:3000 - 
+# Acesse http://localhost:3000
+
+# Para executar os testes da aplicação
+$ yarn test
+ 
+```
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
-Feito com 💜 by Jonas Castro [Stay in touch!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
-Template Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+- Feito com :blue_heart: by Jonas Castro :wave: [Stay in touch!](https://www.linkedin.com/in/jonas-castro-b4044111a/)
+- Template Feito com 💜 by Rocketseat :wave: [Entre na nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
