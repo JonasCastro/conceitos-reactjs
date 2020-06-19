@@ -29,7 +29,7 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio,tem como objetivo criar uma aplicação para treinar os conceitos de ReactJS!
+Esse desafio,tem como objetivo criar uma aplicação para treinar os conceitos de ReactJS!
 
 A aplicação consome a <a href="https://github.com/JonasCastro/conceitos-nodejs">API</a> de repositórios do seu portfólio.
 
